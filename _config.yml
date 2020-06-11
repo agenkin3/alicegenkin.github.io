@@ -1,11 +1,11 @@
 # Site settings
-author: Alice
-title: 
+author:  Alice
+title: Blog Title
 header-img: img/home-bg.png
 email: agenkin1@gmail.com
-copyright_name: Alice
+copyright_name:  Alice
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Blog Subtitle
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  alicegenkin
